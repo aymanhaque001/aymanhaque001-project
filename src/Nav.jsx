@@ -8,13 +8,14 @@ function Nav() {
   return (
     <nav><h3>Favorite Artists</h3>
     <ul className="navlinks">
-     <Link to ='/Spring'> 
+     <Link to ='/ForEmma'> 
      <li> Bon Iver </li> 
      </Link> 
-     <Link to ='/Summer'> 
-     <li> Alexi_Murdoch </li> 
+     <Link to ='/Alexi'> 
+     <li> Alexi </li> 
      </Link> 
-     <Link to ='/Fall'> 
+
+     <Link to ='/Moses'> 
      <li> Moses_Sumney </li> 
      </Link> 
     </ul>
